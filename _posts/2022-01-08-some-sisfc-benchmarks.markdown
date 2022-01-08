@@ -20,7 +20,7 @@ i7-8569U 2.80GHz CPU, 16 GiB RAM and a 64-bit version of Monterey (MacOS 12.5).
 
 Here is the benchmark script:
 
-```
+```sh
 #!/bin/sh
 
 TIME_BASED_ID=$(date +%Y%m%d%H%M%S)
