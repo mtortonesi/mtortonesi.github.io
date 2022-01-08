@@ -1,1 +1,14 @@
-theme: jekyll-theme-minimal
+title: Mauro Tortonesi's Blog
+email: mauro dot tortonesi at unife dot it
+description: >- # this means to ignore newlines until "baseurl:"
+  Useless notes on random computer science things
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mtortonesi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: maurotortonesi
+github_username:  mtortonesi
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
