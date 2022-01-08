@@ -2,8 +2,6 @@
 title: "About me"
 ---
 
-# About me
-
 ![A decent portrait](images/mauro.jpeg)
 
 My name is Mauro Tortonesi and I am an Associate Professor at the Department of

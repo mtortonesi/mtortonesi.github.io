@@ -3,8 +3,6 @@ layout: post
 title:  "Some (Unscientific but Still) Interesting Ruby VM benchmarks"
 ---
 
-# Some (Unscientific but Still) Interesting Ruby VM benchmarks
-
 Encouraged by the [impressive progresses of the TruffleRuby project](https://medium.com/graalvm/benchmarking-cruby-mjit-yjit-jruby-and-truffleruby-6a7178ca6906), a 
 [Twitter
 conversation](https://twitter.com/schneems/status/1479441562694205449) with Richard Schneeman, and the beginning of the new year, I decided to run
